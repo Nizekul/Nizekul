@@ -1,8 +1,9 @@
-Olá, eu sou Lucas Gabriel 👋🏻
-🏡 Resido em Lajedo - PE
-👨‍🎓 Sou formado em Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas.
-💻 Tenho experiência como full stack, com foco em C#, .NET, JavaScript, SQL, NoSQL e APIs.
-👨‍💻 Atualmente, estou concentrado no desenvolvimento back-end com C# / .NET.
+<h1>Olá, eu sou Lucas Gabriel 👋🏻</h1>
+- 🏡 Resido em Lajedo - PE
+- 👨‍🎓 Sou formado em Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Tenho experiência como full stack, com foco em C#, .NET, JavaScript, SQL, NoSQL e APIs.
+- 👨‍💻 Atualmente, estou concentrado no desenvolvimento back-end com C# / .NET.
+
 Linguagens e Ferramentas 🚀
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
