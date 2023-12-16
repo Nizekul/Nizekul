@@ -22,4 +22,4 @@ Conecte-se comigo 📲
 </div>
 Fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações. 🚀
 
-<img lign="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="250" height="250">
+<img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="250" height="250">
