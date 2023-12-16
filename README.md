@@ -21,3 +21,5 @@ Conecte-se comigo 📲
   <a href="mailto:lg.lajedo2@gmail.com"><img src="https://img.shields.io/badge/-Email-%2333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 Fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações. 🚀
+
+<div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
