@@ -22,4 +22,4 @@ Conecte-se comigo 📲
 </div>
 Fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações. 🚀
 
-<img src="https://tenor.com/pt-PT/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"></img>
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="480" height="480">
